@@ -86,4 +86,4 @@ todo-app/
 
 
 ## Screenshots
-<img src="C:/Users/Valusa Nikil/OneDrive/Pictures/Screenshots/Screenshot 2025-03-12 092121" alt="">
+<img src="assets/Screenshot 2025-03-12 092121.png" alt="">
